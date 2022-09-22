@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola mundo
+Mi primer repositorio.
 
 Autor: Itzel Guadalupe
 Fecha: 22 de Septiembre
